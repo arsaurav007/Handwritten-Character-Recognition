@@ -9,7 +9,6 @@ This a Deep learning AI system which recognize handwritten characters, Here I us
 - Pip
 - virtualenv
 
-Download handwritten dataset from [here](http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/EnglishHnd.tgz)
 
 It has only 55 samples for each class, so I have written script to create duplicate images with different backgroud color. 
 
